@@ -3,8 +3,19 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    margin-left: 15%;
+    margin:0 15% ;
 }
 h1 {color: #0A1AE5;
     text-align: center;
+}
+a {
+    font-size:25px;
+    color: gray;
+    text-decoration: none;
+    margin-left: 100px;
+}
+
+div {
+    padding: 10px;
+    background-color: bisque
 }
