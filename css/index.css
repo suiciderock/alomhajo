@@ -9,7 +9,7 @@ body {
 h1 {color: #0A1AE5;
     text-align: center;
 }
-a {
+.nav a {
     font-size:25px;
     color: #404040;
     text-decoration: none;
@@ -23,10 +23,27 @@ div {
 
 .bg {
     background-color: rgba(32,225,239,0.5);
+    padding-bottom: 150px;
 }
 img{
     text-align: center;
 }
 p{
     font-size: 20px;
+}
+footer a {
+text-decoration: none;
+font-size: 15px;
+}
+
+footer p {
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    padding-right: 100px;
+}
+
+.footer-right {
+    position: absolute;
+    left: 74%;
 }
