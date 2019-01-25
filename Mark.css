@@ -1,0 +1,11 @@
+.index {
+    text-align: center;
+}
+body {
+    background-image: url(./img/utazas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0 15% ;
+   
+}
