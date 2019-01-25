@@ -3,27 +3,27 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    margin:0 15% ;
-   
+    margin:0 15% ;  
 }
-h1 {color: #0A1AE5;
-    text-align: center;
+.bg {
+    background-color: rgba(32,225,239,0.5);
+    padding-bottom: 150px;
 }
-.nav a {
+
+header div {
+    padding: 10px;
+    background-color: #9AACBC;
+}
+header a {
     font-size:25px;
     color: #404040;
     text-decoration: none;
     margin-left: 100px;
 }
 
-div {
-    padding: 10px;
-    background-color: #9AACBC;
-}
 
-.bg {
-    background-color: rgba(32,225,239,0.5);
-    padding-bottom: 150px;
+h1 {color: #0A1AE5;
+    text-align: center;
 }
 img{
     text-align: center;
@@ -31,18 +31,18 @@ img{
 p{
     font-size: 20px;
 }
+
+
 footer a {
 text-decoration: none;
 font-size: 15px;
 }
-
 footer p {
     padding: 0;
     margin: 0;
     text-align: left;
     padding-right: 100px;
 }
-
 .footer-right {
     position: absolute;
     left: 74%;
