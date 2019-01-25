@@ -11,19 +11,22 @@ h1 {color: #0A1AE5;
 }
 a {
     font-size:25px;
-    color: gray;
+    color: #404040;
     text-decoration: none;
     margin-left: 100px;
 }
 
 div {
     padding: 10px;
-    background-color: bisque
+    background-color: #9AACBC;
 }
 
 .bg {
     background-color: rgba(32,225,239,0.5);
 }
 img{
-    align:center;
+    text-align: center;
+}
+p{
+    font-size: 20px;
 }
