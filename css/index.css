@@ -48,25 +48,26 @@ header a:hover{
 }
 
 
-h1 {margin: 65px 0;
+h1 {margin-top: 65px;   
     color: #0A1AE5;
     text-align: center;
     font-size: 50px;
 }
 
-h2 {
-font-size: 30px;
+h2 {   
+    font-size: 30px;
 
 }
 
 h3 {
     font-size: 25px;
+    padding-top: 50px;
     
     }
 
 h2, h3 {
     text-align: center;
-    padding-top: 50px;
+    
 
 }
 
