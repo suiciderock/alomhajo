@@ -10,6 +10,26 @@ body {
     padding-bottom: 150px;
 }
 
+header nav div {
+    padding-bottom: 52px;
+}
+
+header nav ul li {
+    padding: 0, 15px;
+    float: left;
+    list-style-type: none;
+}
+
+header nav ul li a {
+    padding: 10px;
+    line-height: 56px;
+    color: #333;   
+}
+
+header nav ul li a:hover {
+    background-color: #ae2735;
+}
+
 header div {
     padding: 10px;
     background-color: #9AACBC;
@@ -25,8 +45,10 @@ header a:hover{
 }
 
 
-h1 {color: #0A1AE5;
+h1 {margin: 50px 0;
+    color: #0A1AE5;
     text-align: center;
+    font-size: 50px;
 }
 }
 img{
