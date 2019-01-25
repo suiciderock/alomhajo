@@ -12,6 +12,9 @@ body {
 
 header nav div {
     padding-bottom: 52px;
+    width: 74.6%;
+    margin-left: 0px;
+    padding-top: 0px;
 }
 
 header nav ul li {
@@ -50,7 +53,13 @@ h1 {margin: 65px 0;
     text-align: center;
     font-size: 50px;
 }
+
+h2 {
+    text-align: center;
+
 }
+
+
 img{
     text-align: center;
 }
