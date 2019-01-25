@@ -4,6 +4,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     margin:0 15% ;
+   
 }
 h1 {color: #0A1AE5;
     text-align: center;
@@ -18,4 +19,11 @@ a {
 div {
     padding: 10px;
     background-color: bisque
+}
+
+.bg {
+    background-color: rgba(32,225,239,0.5);
+}
+img{
+    align:center;
 }
