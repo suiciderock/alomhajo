@@ -20,6 +20,9 @@ header a {
     text-decoration: none;
     margin-left: 100px;
 }
+header a:hover{
+    color:aliceblue;
+}
 
 
 h1 {color: #0A1AE5;
