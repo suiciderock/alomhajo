@@ -3,7 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    margin:0 12% ;  
+    margin:0 12% ; 
 }
 .bg {
     background-color: rgba(255, 255, 255, 0.801);
@@ -28,11 +28,13 @@ header a:hover{
 h1 {color: #0A1AE5;
     text-align: center;
 }
+}
 img{
     text-align: center;
 }
 p{
     font-size: 20px;
+    padding:0 14px;
 }
 
 
