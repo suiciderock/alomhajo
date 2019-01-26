@@ -27,6 +27,7 @@ function run() {
     "text-align": "center"
   });
 
+
   $("nav").prepend('<div id="hamburger">');
   for (i=1; i<=3; i++) {
     $("#hamburger").append('<div>');
