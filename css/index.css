@@ -34,10 +34,6 @@ header nav div ul li a:hover {
     color: #fff;
 }
 
-header nav div ul li a:visited {
-    background-color: #ae2735;
-    color: #fff;
-}
 
 header div {
     padding: 10px;
