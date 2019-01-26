@@ -86,7 +86,7 @@ footer{
 }
 footer a {
 text-decoration: none;
-font-size: 15px;
+font-size: 20px;
 color: #404040;
 padding-right: 15px;
 }
@@ -98,11 +98,13 @@ footer p {
     padding: 0;
     margin: 0;
     text-align: left;
-    padding-right: 100px;
+    padding-right: 10px;
+    float: left;
+    font-size: 14px;
 }
 .footer-right {
     position: absolute;
-    left: 74%;
+    left: 70%;
     padding-top: 30px;
 }
 
