@@ -26,7 +26,7 @@ header nav ul li {
 header nav ul li a {
     padding: 10px;
     line-height: 56px;
-    color: #333;   
+    color: #444;   
 }
 
 header nav div ul li a:hover {
@@ -34,7 +34,7 @@ header nav div ul li a:hover {
     color: #fff;
 }
 
-header nav div ul li a:visited {
+header nav div ul li a:active {
     background-color: #ae2735;
     color: #fff;
 }
