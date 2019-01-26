@@ -29,8 +29,14 @@ header nav ul li a {
     color: #333;   
 }
 
-header nav ul li a:hover {
+header nav div ul li a:hover {
     background-color: #ae2735;
+    color: #fff;
+}
+
+header nav div ul li a:visited {
+    background-color: #ae2735;
+    color: #fff;
 }
 
 header div {
@@ -43,10 +49,13 @@ header a {
     text-decoration: none;
     margin-left: 100px;
 }
-header a:hover{
+/*header a:hover{
     color:aliceblue;
 }
 
+header a:active{
+    color:red;
+}*/
 
 h1 {margin-top: 65px;   
     color: #0A1AE5;
