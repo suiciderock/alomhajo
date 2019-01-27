@@ -1,4 +1,15 @@
-.image div{
-    font-size: 9px;
-    text-align: center;
+ul li {
+    list-style-type: none;
+    font-size:20px;
+    margin-left:4%;
+}
+h2 {
+    color:rgb(5, 161, 128);
+    border-top: 2px dotted gray;
+    padding: 10px;
+}
+h1 {
+    background-color:rgb(145, 144, 170, 0.5);
+    margin:3% 20%;
+    padding: 10px;
 }
